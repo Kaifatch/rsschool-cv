@@ -1,1 +1,1 @@
-https://Kaifatch.github.io/rsschool-cv/cvgit commit -m "first commit"
+https://Kaifatch.github.io/rsschool-cv/cvgit
