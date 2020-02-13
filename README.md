@@ -1,1 +1,1 @@
-https://Kaifatch.github.io/rsschool-cv/cvgit
+https://Kaifatch.github.io/rsschool-cv/cv
